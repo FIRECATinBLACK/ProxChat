@@ -56,7 +56,7 @@ dependencies {
 
 	// modImplementation "net.fabricmc.fabric-api:fabric-api-deprecated:${project.fabric_version}"
 
-	modApi "maven.modrinth:patpat:2o81yS48" // PatPat-1.0.0+1.21.jar
+	modApi "maven.modrinth:patpat:4JHSBTj5" // PatPat-1.0.0+1.21.jar nope changed to 1.20.4
 }
 
 processResources {

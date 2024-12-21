@@ -1,3 +1,18 @@
+Hi I am firecat dont mind me I just made a super lazy port to 1.20.4 but you still need java 21
+I recommend you have either multimc or prism launcher because otherwise idek how to help you in making it work.
+This fork exists because I made this for myself but then there was demand from friends too so hi I know I'm bad at coding, I'll learn eventually :3
+
+### Instructions:
+Click edit on your multi / prism instance
+-> settings
+-> enable "Skip Java Compatibility Checks"
+-> select a java 21 installation using "Auto Detect" or download one with the "Download" button
+
+Also make sure your fabric launcher is at least version 16.9 or higher, thats all from me. If you need help lmk on discord firecatinblack
+
+### Original readme below :)
+### -----------------------------------------------------------------
+
 # ProxChat
 
 Another madness of mine. Found it randomly when fooling around with someone else: You receive all Block nearby Break actions with no filtering.
